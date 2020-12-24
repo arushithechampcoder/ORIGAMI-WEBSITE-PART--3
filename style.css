@@ -6,7 +6,7 @@ justify-content: center ;
 text-align: center;
 }
 *{
-  background-color:yellow
+  background-color:deeppink
 }
 .box{
     border:solid;
@@ -17,8 +17,7 @@ text-align: center;
     }
 
     .grid{
-     text-decoration: fuchsia;
-        background-color :rgb(255, 0, 212);
+        background-color :aqua;
         display:flex;
         justify-content:center;
         }
@@ -28,7 +27,7 @@ text-align: center;
 border:solid;
 border-color:gray;
 text-decoration:yellow;
- background-color :yellow;
+ background-color :aqua;
  display:flex;
  justify-content:center;
   }
@@ -38,7 +37,7 @@ text-decoration:yellow;
     border:solid;
     border-color:gray;
     text-decoration:yellow;
-     background-color :yellow;
+     background-color :deeppink;
      display:flex;
      justify-content:space-between;
       }
@@ -46,42 +45,49 @@ text-decoration:yellow;
                   
 .camel{
     border:solid;
-    border-color:gray;
+    border-color:black;
      display:flex;
      flex-wrap: wrap;
      justify-content:space-between;
+     font-family:sans-serif;
       }
                    
             
                       
 .chamaleon{
-    border:solid;
-    border-color:gray;
-     display:flex;
-     flex-wrap: wrap;
-     justify-content:space-between;
+  border:solid;
+  border-color:black;
+   display:flex;
+   flex-wrap: wrap;
+   justify-content:space-between;
+   font-family:sans-serif;
+
+
       }
        
       
       .pigeon{
         border:solid;
-        border-color:gray;
+        border-color:black;
          display:flex;
          flex-wrap: wrap;
          justify-content:space-between;
+         font-family:sans-serif;
           }
              
           .panda{
             border:solid;
-            border-color:gray;
+            border-color:black;
              display:flex;
              flex-wrap: wrap;
              justify-content:space-between;
+             font-family:sans-serif;
           }
 .teddybear{
   border:solid;
-  border-color:gray;
+  border-color:black;
    display:flex;
    flex-wrap: wrap;
    justify-content:space-between;
+   font-family:sans-serif;
 }
